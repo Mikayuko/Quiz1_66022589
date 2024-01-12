@@ -1,0 +1,84 @@
+#p1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    height: 200px;
+    width: 5000px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+#link {
+    justify-content: space-around;
+    margin: auto;
+    display: flex
+}
+
+
+
+#p5 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.linkpage {
+    width: 15%;
+    
+    
+}
+.allpage {
+    display: flex;
+    flex-direction: column;
+    
+}
+.Page1 {
+    background-color: rgb(34, 245, 34);
+    border: solid black;
+
+}
+.Page2 {
+    background-color: rgb(34, 245, 34);
+    border: solid black;
+    
+}
+.Page3 {
+    background-color: rgb(34, 245, 34);
+    border: solid black;
+}
+.Page4 {
+    background-color: rgb(34, 245, 34);
+    border: solid black;
+    
+}
+.bodypage {
+    background-color: pink;
+    height :500px;
+    width: 65%;
+
+}
+.Rightpage {
+    width: 15%;
+}
+
+#p3 {
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto;
+    
+}
+#p4 {
+    font-weight: normal;
+    margin: auto;
+}
+
+.icon {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    margin: auto;
+    width: auto;
+    height: 30px;
+}
